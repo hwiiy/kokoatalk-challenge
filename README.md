@@ -1,3 +1,3 @@
 # Kokoatalk challenge 2022
 
-css got so much better!
+HTML & css are so much fun!
